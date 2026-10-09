@@ -46,3 +46,11 @@ All security events are recorded in a centralized PostgreSQL database linked by 
 * **Department:** Department of Computer Sciences, Namal University, Mianwali
 
 ---
+
+## Project Schedule & Deliverables
+
+- [x] **Milestone 1:** Project Proposal — *Submitted: 9th October 2026*
+- [ ] **Milestone 2:** Software Requirements Specification (SRS) — *Due: 6th November 2026*
+- [ ] **Milestone 3:** Software Design Specification (SDS) — *Due: 4th December 2026*
+- [ ] **Milestone 4:** Working Prototype — *Due: 25th December 2026*
+- [ ] **Milestone 5:** Final Presentation & System Delivery — *Due: 15th January 2027*
